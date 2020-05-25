@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1aba6e7e-9f36-42e5-b8a2-709e6ef0cfa4" name="Default" comment="commit from idea">
+    <list default="true" id="1aba6e7e-9f36-42e5-b8a2-709e6ef0cfa4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20200518.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cian.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cian.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Parser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -193,12 +200,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Parser.java</url>
-          <line>332</line>
+          <line>330</line>
           <option name="timeStamp" value="97" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Parser.java</url>
-          <line>419</line>
+          <line>417</line>
           <option name="timeStamp" value="111" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

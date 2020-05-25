@@ -10,8 +10,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.logging.*;
 
-
-//после stash
+//test stash
 //main class
 public class Parser
 {
